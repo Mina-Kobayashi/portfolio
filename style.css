@@ -142,7 +142,7 @@ section1
 .section1 {
     width:100%;
     height: auto;
-    background-image: url("studyman.jpg");
+    background-image: url("./studyman.jpg");
     background-size: cover;
     background-color:rgba(255,255,255,0.3);
     background-blend-mode:lighten;
