@@ -374,7 +374,7 @@ section3
     margin-left:10px;
     vertical-align: middle;
     margin-top:-1px;
-    background: transparent url(./news-arrow.svg) no-repeat center center/contain;
+    background: transparent url("./news-arrow.svg") no-repeat center center/contain;
 }
 
 .news-link:hover a{
@@ -827,7 +827,7 @@ defaultのchechboxを無効化
     margin: 0 0 1em;
     padding: 0.7em 3em;
     text-decoration: none;
-    background: #3F51B5 url(./button-arrow.svg) no-repeat center right 12px / 17px 16px;
+    background: #3F51B5 url("./button-arrow.svg") no-repeat center right 12px / 17px 16px;
   }
 
   
